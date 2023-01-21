@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    Stores objects into a sorte of "vertical" tower.
+    Stores objects into a sort of "vertical" tower.
 </p>
 
 - push() -> To add to the top.
