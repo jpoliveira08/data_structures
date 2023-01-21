@@ -9,7 +9,9 @@
 </p>
 
 - push() -> To add to the top.
+![Alt Text](stack_push.gif)
 - pop() -> To remove from the top.
+![Alt Text](stack_pop.gif)
 
 ## Uses of stack
 
